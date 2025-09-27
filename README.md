@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 -->
 <br>
 Hello Everyone👋<br/>
-My name is Shahin 🦅 <br/>
+My name is Shahin <br/>
 A results-driven and innovative Software Engineer with over 4 years of experience in designing, developing, and maintaining high-performance, large-scale software solutions. Proven expertise in the payment and telecommunication sectors, with a strong focus on backend development using the .NET ecosystem. A passionate problem-solver who excels in optimizing system performance and implementing best practices to enhance scalability and reliability. <br/>
 You can follow me on the socials, below 👇.
 
